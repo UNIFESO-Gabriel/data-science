@@ -17,7 +17,7 @@ Os itens acima serão utilizados ao longo do curso e são importantes para a rep
 
 2. Execute o seguinte comando: `git clone https://github.com/UNIFESO-Gabriel/data-science.git`;
 
-3. Pelo terminal, acesse o pasta clonada `data-science` para executar os passos da Etapa 3.
+3. Pelo terminal, acesse a pasta clonada `data-science` para executar os passos da Etapa 3.
 
 ## 3. Configuração do ambiente.
 
@@ -28,3 +28,11 @@ Após a execução dos passos listados nos Itens 1 e 2, execute os seguintes pro
 2. Ative o ambiente virtual a partir do comando `.venv\Scripts\Activate`;
 
 3. Instale as dependências e pacotes Python a partir do seguinte comando: `pip install -r requirements.txt`.
+
+## 4. Bibliografia do Curso.
+
+1. GÉRON, Aurélien. Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow. " O'Reilly Media, Inc.", 2022.
+
+2. FACELI, Katti et al. Inteligência artificial: uma abordagem de aprendizado de máquina. 2021.
+
+3. BEZERRA, Eduardo; PASSOS, Emanuel; GOLDSCHMIDT, Ronaldo. Data Mining: Conceitos, técnicas, algoritmos, orientações e aplicações. Campus, Rio de Janeiro, Brazil, 2015.
