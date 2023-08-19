@@ -1,3 +1,5 @@
+Informações disponíveis em https://www.kaggle.com/competitions/titanic/data.
+
 # Dataset Description
 
 ## 1. Overview
