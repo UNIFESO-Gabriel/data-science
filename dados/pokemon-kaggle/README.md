@@ -1,3 +1,5 @@
+Disponível em https://www.kaggle.com/datasets/abcsds/pokemon.
+
 # About Dataset
 
 This data set includes 721 Pokemons, including their number, name, first and second type, and basic stats: HP, Attack, Defense, Special Attack, Special Defense, and Speed.
