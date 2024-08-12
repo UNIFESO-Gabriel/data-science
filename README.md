@@ -1,4 +1,4 @@
-# UNIFESO *Data Science* 2023.2
+# UNIFESO *Data Science* 2024.2
 Repositório para armazenamento dos arquivos referentes à disciplina de *Data Science*.
 
 ## 1. Verificação do ambiente.
